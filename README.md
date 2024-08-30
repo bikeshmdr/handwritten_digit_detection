@@ -1,0 +1,2 @@
+the link to streamlid code is https://github.com/bikeshmdr/hand_written_digit_recognization_deployment.git<br>
+the link to deplyoed streamlid is https://handwrittendigitrecognizationdeployment-tvxd6hdgxq7nmpfw9tdpgf.streamlit.app/
