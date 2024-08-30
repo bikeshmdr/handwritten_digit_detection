@@ -2,5 +2,5 @@ etc
 include
 Lib
 Scripts
-Share
+Share 
 pyvenv.cfg
