@@ -4,3 +4,6 @@ Lib
 Scripts
 Share 
 pyvenv.cfg
+streamlit/implementation.y
+streamlit/model/LeNet.pkl
+streamlit/requirement.txt
