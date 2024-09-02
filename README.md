@@ -39,8 +39,9 @@
 <p>The deployed link for streamlit is <a href =https://handwrittendigitrecognizationdeployment-tvxd6hdgxq7nmpfw9tdpgf.streamlit.app>streamlit.io<a></p>
 
 <h1>Demo</h1>
-    <video width="640" height="480" autoplay>
+<p>
+    <video width="640" height="480" control>
         <source src="documentation\video\handwriting_identification.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-
+</p>
