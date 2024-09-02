@@ -40,8 +40,8 @@
 
 <h1>Demo</h1>
 <p>
-    <video width="640" height="480" autoplay muted>
-        <source src="documentation\video\handwriting_identification.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+    
+https://github.com/user-attachments/assets/eaa44434-9c05-491c-a0d2-8b7e94377f97
+
+
 </p>
