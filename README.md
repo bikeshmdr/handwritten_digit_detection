@@ -13,7 +13,7 @@
                 <img src= "documentation\images\summary.png" alt = "Model Summary" width = "600">
                 <p>Model is trained using <b>adam</b> as optimizer <b>categorical_crossentropy</b> as loss function with implementation of <b>learning rate reduction and early stopping</b> to prevent model for overfitting. The training loss plot is shown below.<br>
                     <img src = "documentation\image\loss_accuracy_plot.png" alt = "Training loss and accuracy plot" width = "600">
-                    Similarly, the confusion matrix during testing can also be observed below.
+                    <p>Similarly, the confusion matrix during testing can also be observed below.</p>
                     <img src = "documentation\images\confusion_matrix.png" alt = "Confusion matrix" width= "600">
                 </p>
             </ul>
@@ -23,14 +23,16 @@
                 <li>Images were normalized to have pixel values between 0 and 1.</li>
                 <li>Model was trained in loop with different n_estimators from the list [10, 50, 100, 200, 300]</li>
                 <li>For comparison of model performance with different n_estimators training and testing accuracy were observed for each n_estimator, the graph can be observed below.</li>
-                <image src = "documentation\images\accuracy.png" alt = "Model performance with different n_estimator" width = "500">
+                <p>
+                <img src = "documentation\images\accuracy.png" alt = "Model performance with different n_estimator" width = "500">
+                </p>
             </ul>
             <p>The saved model was also reimported and evaluation were performed.
     </ol>
 
 <h1>Model Comparison</h1>
     <p>Various evaluation parameters were used to evaluate the models as shown below.</p>
-    <image src = "documentation\handwriting_documentation.png" alt = "Model performance with different n_estimator" width = "500">
+    <img src = "documentation\handwriting_documentation.png" alt = "Model performance with different n_estimator" width = "500">
 
 
 <h1>Model Deployment</h1>
