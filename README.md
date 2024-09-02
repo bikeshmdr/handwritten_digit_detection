@@ -30,7 +30,7 @@
 
 <h1>Model Comparison</h1>
     <p>Various evaluation parameters were used to evaluate the models as shown below.</p>
-    [handwriting_identification.pdf](https://github.com/user-attachments/files/16831273/handwriting_identification.pdf)
+    <image src = "documentation\handwriting_documentation.png" alt = "Model performance with different n_estimator" width = "500">
 
 
 <h1>Model Deployment</h1>
@@ -38,5 +38,8 @@
 <p>The deployed link for streamlit is <a href =https://handwrittendigitrecognizationdeployment-tvxd6hdgxq7nmpfw9tdpgf.streamlit.app>streamlit.io<a></p>
 
 <h1>Demo</h1>
-    https://github.com/user-attachments/assets/1ef907a0-ac50-44d3-97bc-ab7935a8ab5e
+    <video width="640" height="480" controls>
+        <source src="documentation\video\handwriting_identification.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 
