@@ -31,7 +31,7 @@
 
 <h1>Model Comparison</h1>
     <p>Various evaluation parameters were used to evaluate the models as shown below.<br>
-    <img src = "documentation\handwriting_documentation.png" alt = "Model performance with different n_estimator" width = "500">
+    <img src = "documentation\handwriting_identification.png" alt = "Model performance with different n_estimator" width = "500">
     </p>
 
 <h1>Model Deployment</h1>
