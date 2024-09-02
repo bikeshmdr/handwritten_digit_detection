@@ -40,7 +40,7 @@
 
 <h1>Demo</h1>
 <p>
-    <video width="640" height="480" control>
+    <video width="640" height="480" controls>
         <source src="documentation\video\handwriting_identification.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
