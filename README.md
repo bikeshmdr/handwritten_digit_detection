@@ -30,15 +30,10 @@
 
 <h1>Model Comparison</h1>
     <p>Various evaluation parameters were used to evaluate the models as shown below.</p>
-    <iframe src="\documentation\handwriting_identification.pdf" width="600" height="500" style="border:none;"></iframe>
+
 
 <h1>Model Deployment</h1>
 <p>The link to streamlit code is <a href =https://github.com/bikeshmdr/hand_written_digit_recognization_deployment.git>github.com<a></p>
 <p>The deployed link for streamlit is <a href =https://handwrittendigitrecognizationdeployment-tvxd6hdgxq7nmpfw9tdpgf.streamlit.app>streamlit.io<a></p>
 
-<h1>Demo</h1>
-    <video width="640" height="360" controls>
-        <source src="documentation\video\handwriting_identification.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
 
